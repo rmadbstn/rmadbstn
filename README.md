@@ -54,7 +54,7 @@
 
 ---
 ### ❄️ My project
-- 💻 [Savvy](https://github.com/spy03128/NawaNolza)(2022.10.10 ~ 2022.11.21)
+- 💻 [Savvy](https://github.com/codestates-beb/beb-09-final-Savvy)(2022.10.10 ~ 2022.11.21)
   - ERC-6551기반 커뮤니티 관리 관리 서비스  “ ERC6551 based community management tool “ 
   - BEB 9기 최종 프로젝트
 
