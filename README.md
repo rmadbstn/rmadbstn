@@ -3,7 +3,6 @@
 ## Harvey 😎
 
 - 💬 E-mail : kumyunsu@gmail.com 
-- 🔭 Notion : https://www.notion.so/keumyunsu/Blockchain-Developer-9e399ca1d53d40358b44ab5d1578cc8d
 - 🚛 Tech Blog : https://unbreakableheart.tistory.com
 
 
