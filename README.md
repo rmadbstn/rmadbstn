@@ -14,7 +14,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmadbstn)](https://github.com/rmadbstn/github-readme-stats) -->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rmadbstn)](https://solved.ac/rmadbstn)
-![rmadbstn's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmadbstn&show_icons=true&theme=dracula)
+<!-- ![rmadbstn's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmadbstn&show_icons=true&theme=dracula) -->
 
 
 
@@ -35,14 +35,15 @@
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)<br/>
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)<br/>
 
 
 ---
 ### 👨🏻‍💻 Career
 | 일자    | 소속       | 직무  |
 | ------- | ----------------------------------------------------------------------------------- | ---------- |
-| 2024.03~ | Eggverse                                |  FrontEnd / BackEnd / SmartContract |
+| 2024.03~ | Eggverse                                |  FrontEnd & BackEnd & SmartContract |
 
 
 ### 📑 Experience
