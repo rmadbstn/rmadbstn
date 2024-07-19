@@ -3,7 +3,6 @@
 ## Harvey 😎
 
 - 💬 E-mail : kumyunsu@gmail.com 
-- 🔭 Notion : https://www.notion.so/keumyunsu/Blockchain-Developer-9e399ca1d53d40358b44ab5d1578cc8d
 - 🚛 Tech Blog : https://unbreakableheart.tistory.com
 
 <!-- [![rmadbstn's github stats](https://github-readme-stats.vercel.app/api?username=rmadbstn&count_private=true&show_icons=true&hide_border=true&theme=radical)](https://github.com/rmadbstn) -->
@@ -46,11 +45,11 @@
 
 ---
 ### ❄️ My project
-- 💻 [Savvy](https://github.com/codestates-beb/beb-09-final-Savvy)(2022.10.10 ~ 2022.11.21)
+- 💻 [Savvy](https://github.com/codestates-beb/beb-09-final-Savvy)(2023.07 ~ 2023.08)
   - ERC-6551기반 커뮤니티 관리 서비스  “ ERC6551 based community management tool “ 
   - BEB 9기 최종 프로젝트
 
-- 📋 [Sweeter](https://github.com/codestates-beb/beb-09-second-blockpink)(2022.08.22 ~ 2022.10.07)
+- 📋 [Sweeter](https://github.com/codestates-beb/beb-09-second-blockpink)(2023.06 ~ 2022.07)
   - 자체적인 토큰을 가지고 참여자를 유도하는 인센티브 기반 커뮤니티
   - BEB 9기 2번째 프로젝트
   
