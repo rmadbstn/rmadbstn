@@ -7,7 +7,7 @@
 
 <!-- [![rmadbstn's github stats](https://github-readme-stats.vercel.app/api?username=rmadbstn&count_private=true&show_icons=true&hide_border=true&theme=radical)](https://github.com/rmadbstn) -->
 [![rmadbstn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rmadbstn&exclude_repo=&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&count_private=true&langs_count=8&theme=radical&hide=)](https://github.com/rmadbstn)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rmadbstn)](https://solved.ac/rmadbstn)
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rmadbstn)](https://solved.ac/rmadbstn) -->
 
 
 - 💻 My Tech Skills: <br />
