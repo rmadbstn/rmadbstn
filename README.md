@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Hi,%20I'm%20Harvey&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Software%20Engineer%20/%20Blockchain%20Researcher&fontSize=35)
 
 ## Harvey 😎
 
