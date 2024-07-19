@@ -6,21 +6,12 @@
 - 🔭 Notion : https://www.notion.so/keumyunsu/Blockchain-Developer-9e399ca1d53d40358b44ab5d1578cc8d
 - 🚛 Tech Blog : https://unbreakableheart.tistory.com
 
-
-
-
-
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmadbstn)](https://github.com/rmadbstn/github-readme-stats) -->
+<!-- [![rmadbstn's github stats](https://github-readme-stats.vercel.app/api?username=rmadbstn&count_private=true&show_icons=true&hide_border=true&theme=radical)](https://github.com/rmadbstn) -->
+[![rmadbstn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rmadbstn&exclude_repo=&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&count_private=true&langs_count=8&theme=radical&hide=)](https://github.com/rmadbstn)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rmadbstn)](https://solved.ac/rmadbstn)
-<!-- ![rmadbstn's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmadbstn&show_icons=true&theme=dracula) -->
-
-
 
 
 - 💻 My Tech Skills: <br />
-
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
