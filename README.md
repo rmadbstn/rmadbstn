@@ -40,7 +40,7 @@
 | 일자    | 내용       | 비고  |
 | ------- | ----------------------------------------------------------------------------------- | ---------- |
 | 2023.03~08 | BlockChain Engineering BootCamp(코드스테이츠 BEB 9기)                                |  React/Node.JS기반 풀스택 과정 학습, Solidity 및 스마트컨트랙트, De-Fi, dApp 등을 포괄하는 블록체인 기술 이론 학습|
-| 2024.05~0 | [블파스(블록체인 파헤치는 스터디) 17기, 18기](https://www.youtube.com/@blpas)                    |   [Blog](https://unbreakableheart.tistory.com/category/Study/%EB%B8%94%ED%8C%8C%EC%8A%A4-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%20%ED%8C%8C%ED%97%A4%EC%B9%98%EB%8A%94%20%EC%8A%A4%ED%84%B0%EB%94%94)     |
+| 2024.05~0 | 블파스(블록체인 파헤치는 스터디) 17기, 18기                  |   [Youtube](https://www.youtube.com/@blpas)     |
 
 
 ---
