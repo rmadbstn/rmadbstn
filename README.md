@@ -9,23 +9,31 @@
 [![rmadbstn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rmadbstn&exclude_repo=&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&count_private=true&langs_count=8&theme=radical&hide=)](https://github.com/rmadbstn)
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rmadbstn)](https://solved.ac/rmadbstn) -->
 
-
-- 💻 My Tech Skills: <br />
-
+## Tech Stack
+### 💻 Languages: <br/>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MONGODB](https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
-![MYSQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotiln-%23323330.svg?style=for-the-badge&logo=kotlin&logoColor=#7F52FF")<br />
-
-
-- 🌱 Learning: <br/>
-
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+
+### 🌐 Frameworks & Libraries: <br/>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB)
+
+###  🚀 Tools & Platforms: <br/>
+![Amazon](https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=Amazon&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+### 🗄️ Database: <br/>
+![MONGODB](https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+![MariaDB](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MYSQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🌱 Learning: <br/>
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)<br/>
 
 
@@ -40,7 +48,7 @@
 | 일자    | 내용       | 비고  |
 | ------- | ----------------------------------------------------------------------------------- | ---------- |
 | 2023.03~08 | BlockChain Engineering BootCamp(코드스테이츠 BEB 9기)                                |  React/Node.JS기반 풀스택 과정 학습, Solidity 및 스마트컨트랙트, De-Fi, dApp 등을 포괄하는 블록체인 기술 이론 학습|
-| 2024.05~0 | 블파스(블록체인 파헤치는 스터디) 17기, 18기                  |   [Youtube](https://www.youtube.com/@blpas)     |
+| 2024.05~ | 블파스(블록체인 파헤치는 스터디) 17기, 18기, 19기                  |   [Youtube](https://www.youtube.com/@blpas)     |
 
 
 <!-- ---
