@@ -3,7 +3,6 @@
 ## Harvey 😎
 
 - 💬 E-mail : kumyunsu@gmail.com 
-- 🚛 Tech Blog : https://unbreakableheart.tistory.com
 
 <!-- [![rmadbstn's github stats](https://github-readme-stats.vercel.app/api?username=rmadbstn&count_private=true&show_icons=true&hide_border=true&theme=radical)](https://github.com/rmadbstn) -->
 [![rmadbstn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rmadbstn&exclude_repo=&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&count_private=true&langs_count=8&theme=radical&hide=)](https://github.com/rmadbstn)
